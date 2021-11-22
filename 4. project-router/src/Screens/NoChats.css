@@ -1,0 +1,14 @@
+.no-chats {
+    position: relative;
+    border: 1px solid;
+    border-radius: 10px;
+    height: 100%;
+}
+
+.no-chats-text {
+    position: absolute;
+    display: flex;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
