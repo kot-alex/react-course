@@ -1,0 +1,28 @@
+.form {
+    display: grid;
+    grid-template-columns: 3fr 1fr auto;
+    margin: 30px;
+}
+
+.submitBtn {
+    cursor: pointer;
+    background-color: #007bff;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px 14px;
+    border: none;
+    color: #ffffff;
+}
+
+.text {
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.author {
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 20px;
+    margin: 0 10px;
+}

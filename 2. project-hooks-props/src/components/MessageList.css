@@ -1,0 +1,17 @@
+.list {
+    flex-grow: 1;
+    margin: 30px;
+}
+
+.message {
+    width: fit-content;
+    max-width: 60%;
+    border: none;
+    border-radius: 10px;
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    word-break: break-word;
+}
