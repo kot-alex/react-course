@@ -1,0 +1,8 @@
+.message {
+    text-shadow: 2px 2px 5px rgb(236, 19, 19);
+    max-width: 30em;
+}
+
+.text {
+    text-shadow: 2px 2px 5px rgb(0, 57, 245);
+}
