@@ -1,0 +1,3 @@
+export const ADD_MESSAGE = "MESSAGES::ADD_MESSAGE";
+
+export const SHOW_MESSAGES = "MESSAGES::SHOW_MESSAGES";

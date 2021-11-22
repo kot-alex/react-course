@@ -1,0 +1,1 @@
+export const TOGGLE_SHOW_NAME = "PROFILE::TOGGLE_SHOW_NAME";
