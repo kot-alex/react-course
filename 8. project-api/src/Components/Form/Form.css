@@ -1,0 +1,21 @@
+.form {
+    display: grid;
+    grid-template-columns: 4fr 1fr auto;
+    margin-top: 30px;
+}
+
+.form-text fieldset {
+    border-radius: 10px;
+}
+
+.form-author fieldset {
+    border-radius: 10px;
+}
+
+.MuiTextField-root.form-author {
+    margin: 0 10px;
+}
+
+.MuiButton-root.form-send-btn {
+    border-radius: 10px;
+}

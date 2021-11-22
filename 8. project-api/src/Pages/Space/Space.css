@@ -1,0 +1,28 @@
+.space {
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.space-list {
+    text-align: center;
+    background-color: inherit;
+}
+
+.MuiFab-root.space-list-load_btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.space-list-item {
+    margin-bottom: 40px;
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+.space-list-image {
+    max-width: 100%;
+}
