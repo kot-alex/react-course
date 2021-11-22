@@ -1,0 +1,21 @@
+.chats {
+    display: flex;
+    height: inherit;
+    padding: 30px;
+    overflow: auto;
+}
+
+.chats-left {
+    border: 1px solid;
+    border-radius: 10px;
+    max-width: 300px;
+    width: 100%;
+    overflow: auto;
+}
+
+.chats-right {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 10px;
+}
