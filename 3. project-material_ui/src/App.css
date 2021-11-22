@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  background-color: #e1f5fe;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.app-right {
+  display: flex;
+  flex-direction: column;
+}

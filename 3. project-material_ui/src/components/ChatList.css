@@ -1,0 +1,7 @@
+.chat-list {
+    border: 1px solid;
+    margin-right: 10px;
+    border-radius: 10px;
+    max-width: 300px;
+    width: 100%;
+}
