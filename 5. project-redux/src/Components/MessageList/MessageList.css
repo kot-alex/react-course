@@ -1,0 +1,38 @@
+.msg-list {
+    position: relative;
+    height: 100%;
+    border: 1px solid lightslategray;
+    border-radius: 10px;
+    overflow: auto;
+}
+
+.msg {
+    width: fit-content;
+    max-width: 60%;
+    border: none;
+    border-radius: 10px;
+    background-color: #2196f3;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    word-break: break-word;
+}
+
+.msg-author {
+    display: block;
+    text-align: end;
+    font-size: 16px;
+    color: #b3e5fc;
+}
+
+.info-msg {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-radius: 10px;
+    background-color: #03a9f4;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 20px;
+}

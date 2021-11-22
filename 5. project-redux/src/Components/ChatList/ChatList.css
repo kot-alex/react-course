@@ -1,0 +1,11 @@
+.chat-list {
+    margin-right: 10px;
+    border-radius: 10px;
+    max-width: 300px;
+    width: 100%;
+    overflow: auto;
+}
+
+.MuiListItem-root.chat-list-item {
+    margin: 10px 0;
+}
